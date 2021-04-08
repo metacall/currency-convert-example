@@ -1,5 +1,5 @@
 {
   "language_id": "py",
   "path": ".",
-  "scripts": ["url-shortener-example/app.py"]
+  "scripts": ["currency-convert-example/main.py"]
 }
